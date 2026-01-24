@@ -15,7 +15,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jubinsoni&show_icons=true&theme=default" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jubinsoni&show_icons=true&theme=tokyonight&hide=issues,contribs&hide_rank=true" height="170" />
 </p>
 
 ---
