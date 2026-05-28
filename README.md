@@ -15,7 +15,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jubinsoni&show_icons=true&theme=tokyonight&hide=issues,contribs&hide_rank=true" height="170" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jubinsoni&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 ---
